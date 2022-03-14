@@ -1,5 +1,5 @@
 {
-  "name": "AlphabotMD",
+  "name": "Knight bot",
   "version": "8.0.0",
   "description": "Alpha Bot Multi Device, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
@@ -19,7 +19,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Siknight",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
